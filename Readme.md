@@ -1,7 +1,6 @@
 # TLPlus
 
-This App allows setting time limits for the usage of Android phones/devices.  
-(forked from [opentimelimit-android](https://codeberg.org/timelimit/opentimelimit-android))
+This App allows setting time limits for the usage of Android phones/devices. (forked from [opentimelimit-android](https://codeberg.org/timelimit/opentimelimit-android))
 
 ### Building
 
